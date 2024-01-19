@@ -1,0 +1,8 @@
+.slide-contaier {
+  position: relative;
+}
+
+.slide {
+  position: absolute;
+  transition: 1s all ease-in-out;
+}
